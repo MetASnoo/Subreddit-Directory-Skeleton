@@ -525,11 +525,6 @@ Video Games
             Counter Strike
             /r/GlobalOffensive
             /r/globaloffensivetrade
-        Sports
-        /r/nascar
-        /r/cricket
-        /r/fifa
-        /r/nba2k
         Destiny
         /r/DestinyTheGame
         /r/fireteams
@@ -558,6 +553,7 @@ Video Games
         Zelda
         /r/zelda
         /r/breath_of_the_wild
+Entertainment
     Genres
     /r/zombies
     /r/cyberpunk
@@ -685,6 +681,10 @@ Video Games
             /r/spop
             /r/kpop
 Sports
+    /r/nascar
+    /r/cricket
+    /r/fifa
+    /r/nba2k
     /r/sports
     /r/running
     /r/bicycling
